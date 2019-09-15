@@ -1,5 +1,7 @@
 {
-"101":"Acrobatic",
-"102":"Film",
-"103":"TestActivity"
+  "activities":[
+    {"101":"Acrobatic"},
+    {"102":"Film"},
+    {"103":"TestActivity"}
+    ]
 }
